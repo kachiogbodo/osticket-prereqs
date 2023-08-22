@@ -22,11 +22,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Also 1
-- Also 2
-- Also 3
-- Also 4
-- Also 5
+- Azure Tenant
+- Subscription
+- Resource Group
+- Virtual Network
+- Subnet
+- Virtual Machine
 
 <h2>Installation Steps</h2>
 
